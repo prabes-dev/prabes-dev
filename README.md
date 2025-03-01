@@ -3,7 +3,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-prabeshbhattarai2004.com.np-blue?style=for-the-badge&logo=firefox-browser)](https://prabeshbhattarai2004.com.np/)
 [![Email](https://img.shields.io/badge/Email-prabes59@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:prabes59@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prabesh--bhattarai-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prabesh-bhattarai)
-[![Facebook](https://img.shields.io/badge/Facebook-pra_bes-1877F2?style=for-the-badge&logo=facebook)](https://fb.com/pra%20bes)
 
 ## 👨‍💻 About Me
 
